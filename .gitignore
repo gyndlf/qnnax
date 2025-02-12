@@ -1,0 +1,4 @@
+.idea/
+Justfile
+.ipynb_checkpoints/
+__pycache__/
